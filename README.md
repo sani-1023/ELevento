@@ -4,13 +4,19 @@ This project is to create a platform to ease the process of looking up for event
 # Some Screenshots:
 
 <p  align="center"  >
-<img  src="project_pictures/1.png"  height = "400"/> </p>
+<img  src="project_pictures/1.jpg"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="project_pictures/2.png"  height = "400"/> </p>
+<img  src="project_pictures/2.jpg"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="project_pictures/3.png"  height = "400"/> </p>
+<img  src="project_pictures/3.jpg"  height = "400"/> </p>
 
 <p  align="center"  >
-<img  src="project_pictures/4.png"  height = "400"/> </p>
+<img  src="project_pictures/4.jpg"  height = "400"/> </p>
+<p  align="center"  >
+<img  src="project_pictures/5.jpg"  height = "400"/> </p>
+<p  align="center"  >
+<img  src="project_pictures/6.jpg"  height = "400"/> </p>
+<p  align="center"  >
+<img  src="project_pictures/7.jpg"  height = "400"/> </p>
